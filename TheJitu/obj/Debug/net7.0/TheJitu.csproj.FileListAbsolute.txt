@@ -1,0 +1,15 @@
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\bin\Debug\net7.0\TheJitu.exe
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\bin\Debug\net7.0\TheJitu.deps.json
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\bin\Debug\net7.0\TheJitu.runtimeconfig.json
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\bin\Debug\net7.0\TheJitu.dll
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\bin\Debug\net7.0\TheJitu.pdb
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\obj\Debug\net7.0\TheJitu.csproj.AssemblyReference.cache
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\obj\Debug\net7.0\TheJitu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\obj\Debug\net7.0\TheJitu.AssemblyInfoInputs.cache
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\obj\Debug\net7.0\TheJitu.AssemblyInfo.cs
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\obj\Debug\net7.0\TheJitu.csproj.CoreCompileInputs.cache
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\obj\Debug\net7.0\TheJitu.dll
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\obj\Debug\net7.0\refint\TheJitu.dll
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\obj\Debug\net7.0\TheJitu.pdb
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\obj\Debug\net7.0\TheJitu.genruntimeconfig.cache
+C:\Users\biino\SeeSharp\Week-3\Project-1\TheJitu\TheJitu\obj\Debug\net7.0\ref\TheJitu.dll
